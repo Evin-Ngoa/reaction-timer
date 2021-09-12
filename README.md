@@ -2,10 +2,9 @@
 
 A simple reaction timer game made from vue 3 to measure fast clicking reflexes.
 
-![Gold Rank 1](images/gold-rank.png)
-
 ![Start Play](images/reaction-timer-start.png)
 
+![Gold Rank 1](images/gold-rank.png)
 
 ## Project setup
 ```
